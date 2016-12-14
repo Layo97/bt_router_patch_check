@@ -1,4 +1,4 @@
-# bt_router_path_check
+# BT_router_path_check
 
 Developed in python 2.7.12
 libraries used : sys, re
